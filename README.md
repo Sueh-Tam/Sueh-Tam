@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello there, wellcome to my GitHub profile👋
 
+- 📘 I'm academic of TADS (Systems analysis and development technician) at IFPR - campus Foz do Iguaçu-PR
 <!--
 **Sueh-Tam/Sueh-Tam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
