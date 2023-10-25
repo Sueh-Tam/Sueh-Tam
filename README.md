@@ -16,8 +16,8 @@
 -   8 - Pascal
 -   9 - Go
 -   🧑‍💻My experience with Databases
--   1- MYSQL (Database)
--   2- MongoDB (Database)
+-   1- MYSQL
+-   2- MongoDB
 
 <!--
 **Sueh-Tam/Sueh-Tam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
