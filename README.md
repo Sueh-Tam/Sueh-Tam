@@ -3,7 +3,7 @@
 - 📘 I'm currently academic of TADS (Systems analysis and development technician) at IFPR - campus Foz do Iguaçu.
 - 🔭 I'am currently working as a teacher of computational thinking, robotic and web programming.
 - 📘 My Certificates:
--   1 - IT Technician at the IFPR - campus Foz do iguaçu (2017)
+-   1 - IT Technician at the IFPR - Campus Foz do iguaçu (2017)
 -   2 - Advanced Web Development with PHP, Laravel and Vue.JS by Udemy(2021)
 - 🧑‍💻My experience with programming languages and Frameworks:
 -   1 - PHP (laravel)
@@ -15,6 +15,7 @@
 -   7 - Python (Flask)
 -   8 - Pascal
 -   9 - Go
+-   10 - C# (ASP.NET)
 -   🧑‍💻My experience with Databases
 -   1- MYSQL
 -   2- MongoDB
