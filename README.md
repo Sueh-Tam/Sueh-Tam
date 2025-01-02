@@ -1,6 +1,16 @@
 <div align="center">
     <h1> Hello, There!! </h1>
 </div>
+<div>
+    My name is Matheus Vidal, and I am a self-taught, passionate Full-Stack web developer from Brazil.
+    <br>
+    <b>About me:</b>
+    <ul>
+        <li>Junior Web Developer for the government of Foz do Iguaçu, Brazil</li>
+        <li>Developer of administrative automations using Microsoft tools</li>
+        <li>Freelance service provider for businesses</li>
+    </ul>
+</div>
 
 
 
