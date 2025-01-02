@@ -6,6 +6,7 @@
     <br>
     <b>About me:</b>
     <ul>
+        <li>CEO of: vidal.tech_</li>
         <li>Junior Web Developer for the government of Foz do Iguaçu, Brazil</li>
         <li>Developer of administrative automations using Microsoft tools</li>
         <li>Freelance service provider for businesses</li>
