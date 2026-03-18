@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Matheus+Vidal!+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Process+Automation+%26+Web+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=30&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello+there!+I'm+Matheus+Vidal!+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;" alt="Typing SVG" />
 </div>
 
 <br>
 
 ## About Me
 
-I'm a **self-taught Full-Stack Web Developer** from **Foz do Iguaçu, Brazil**, passionate about building efficient web solutions and automating business processes.
+I'm a **self-taught Full-Stack Web Developer** from ** Brazil**, passionate about building efficient web solutions and automating business processes.
 
 - 🏢 **Founder & CEO** at [vidal.tech_](https://vidal.tech)
 - 👨‍💻 **Junior Web Developer** at the City Government of Foz do Iguaçu
