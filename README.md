@@ -53,7 +53,7 @@ I'm a **self-taught Full-Stack Web Developer** from ** Brazil**, passionate abou
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vidal-nunes-330819206) <!-- Substitua pelo seu real -->
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vidal.tech_) <!-- Substitua pelo seu real -->
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.vidal@vidaltech.dev.br) <!-- Substitua pelo seu email -->
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.vidal.nunes@outlook.com) <!-- Substitua pelo seu email -->
   [![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.vidaltech.dev.br/)
 
 </div>
