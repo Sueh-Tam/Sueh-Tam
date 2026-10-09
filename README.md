@@ -8,7 +8,6 @@
 
 I'm a **self-taught Full-Stack Web Developer** from ** Brazil**, passionate about building efficient web solutions and automating business processes.
 
-- 🏢 **Founder & CEO** at [vidal.tech_](https://vidal.tech)
 - 👨‍💻 **Junior Web Developer** at the City Government of Foz do Iguaçu
 - 🤖 Specialist in **process automation** using **Microsoft Power Apps**, Power Automate, and integrations
 - 💼 Providing **freelance services** to businesses (websites, internal systems, automations)
